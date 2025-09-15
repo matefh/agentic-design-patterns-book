@@ -1,11 +1,3 @@
-# Generated EPUB files (can be regenerated from source)
-*.epub
-epub/
-
-# Generated enhanced book files (can be regenerated)
-*_with_toc.md
-book_final.md
-
 # Python cache and temporary files
 __pycache__/
 *.py[cod]

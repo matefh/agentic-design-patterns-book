@@ -1,9 +1,7 @@
 # Agentic Design Patterns
 
-**A Hands-On Guide to Building Intelligent Systems**  
-*By Antonio Gulli*
-
-> "All royalties will be donated to Save the Children"
+[**A Hands-On Guide to Building Intelligent Systems**](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/)  
+*By [Antonio Gulli](https://www.linkedin.com/feed/update/urn:li:activity:7354380927701004288/)*
 
 ## About This Book
 
@@ -20,8 +18,9 @@ This book explores the fundamental design patterns needed to build intelligent A
 ## 🏗️ Repository Structure
 
 ```
+├── agentic-design-patterns.epub  # Final EPUB file
 ├── agentic-design-patterns.md    # Main book content (Markdown)
-├── markdown/                     # Individual chapter files
+├── markdown/                     # Individual chapter files downloaded from Google Docs
 │   ├── chapter_*.md             # Chapter files
 │   ├── appendix_*.md            # Appendix files
 │   └── table_of_contents_epub.md # EPUB table of contents
@@ -34,6 +33,7 @@ This book explores the fundamental design patterns needed to build intelligent A
 ├── styles/                       # EPUB styling
 │   └── epub-styles.css          # CSS for EPUB formatting
 ├── backups/                      # Backup files
+├── epub/                         # EPUB files
 └── docs/                        # Documentation
 ```
 
@@ -124,6 +124,8 @@ epub/agentic-design-patterns-complete.epub
 
 The generated EPUB works with:
 - **macOS Books** app
+- **Moon+ Reader** app
+- **ElevenReader** app for audio books
 - **Kindle** (via Calibre conversion)
 - **Adobe Digital Editions**
 - **Calibre** e-book management
@@ -135,12 +137,4 @@ This book represents cutting-edge knowledge in agentic AI systems. While the mai
 
 ## 📄 License
 
-All royalties from this book are donated to **Save the Children**.
-
-## 🙏 Acknowledgments
-
-Special thanks to all contributors mentioned in the book's acknowledgment section, including the Google Office of the CTO team, Cloud AI teams, and the many reviewers who helped shape this content.
-
----
-
-**Happy Building! 🤖✨**
+All rights belong to Antonio Gulli.
