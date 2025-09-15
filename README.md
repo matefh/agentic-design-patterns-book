@@ -3,6 +3,10 @@
 📖 🔗 👉 [**Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems**](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/)  
 *By [Antonio Gulli](https://www.linkedin.com/feed/update/urn:li:activity:7354380927701004288/)*
 
+## EPUB
+
+⬇️ 💾 👉 [Download the EPUB file](epub/agentic-design-patterns-complete.epub)
+
 ## About This Book
 
 This book explores the fundamental design patterns needed to build intelligent AI agents. From prompt chaining and tool use to multi-agent collaboration and safety patterns, it provides practical, hands-on guidance for developers building the next generation of AI applications.
