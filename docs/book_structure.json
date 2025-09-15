@@ -1,0 +1,259 @@
+{
+  "title": "Agentic Design Patterns",
+  "subtitle": "A Hands-On Guide to Building Intelligent Systems",
+  "author": "Antonio Gulli",
+  "download_date": "2025-09-14 20:18:45",
+  "sections": {
+    "frontmatter": [
+      {
+        "title": "Dedication",
+        "filename": "01_dedication",
+        "file_path": "agentic-design-patterns-book/01_dedication.md",
+        "source_url": "https://docs.google.com/document/d/1cQ61mNpiWn6eSORmWjEjF44vN2Lpba8kyKmNwIC60ig/edit?usp=sharing"
+      },
+      {
+        "title": "Acknowledgment",
+        "filename": "02_acknowledgment",
+        "file_path": "agentic-design-patterns-book/02_acknowledgment.md",
+        "source_url": "https://docs.google.com/document/d/1u2y6tY48bw8nriDUuwWEf9s8g66vyIqBKSKZDOS-n0s/edit?tab=t.0#heading=h.y1l1kh7vu0qi"
+      },
+      {
+        "title": "Foreword",
+        "filename": "03_foreword",
+        "file_path": "agentic-design-patterns-book/03_foreword.md",
+        "source_url": "https://docs.google.com/document/d/18Q9kfZuCTL37ztrSjLxwf8Elr5UfAiAavmnj0IqSpbU/edit?tab=t.0#heading=h.5wi2c0amdd0f"
+      },
+      {
+        "title": "A Thought Leader's Perspective: Power and Responsibility",
+        "filename": "04_thought_leaders_perspective",
+        "file_path": "agentic-design-patterns-book/04_thought_leaders_perspective.md",
+        "source_url": "https://docs.google.com/document/d/1PWhaXD_UNKgJaxYe3JBxRFRt3_B8Wm67CFxtSBQ4LkU/edit?tab=t.0#heading=h.2v348nrvaqww"
+      },
+      {
+        "title": "Introduction",
+        "filename": "05_introduction",
+        "file_path": "agentic-design-patterns-book/05_introduction.md",
+        "source_url": "https://docs.google.com/document/d/1K5jwqB6jh20uHL0TTWxqWOxFk-dzFxRvHzrRRV79hrg/edit?tab=t.0"
+      },
+      {
+        "title": "What makes an AI system an \"agent\"?",
+        "filename": "06_what_makes_ai_agent",
+        "file_path": "agentic-design-patterns-book/06_what_makes_ai_agent.md",
+        "source_url": "https://docs.google.com/document/d/1Nw6hRa7ItdLr_Tj5hF2q-OH8B_uPKb--RLn8SXZKA94/edit?usp=sharing"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Chapter 1: Prompt Chaining",
+        "filename": "chapter_01_prompt_chaining",
+        "file_path": "agentic-design-patterns-book/chapter_01_prompt_chaining.md",
+        "source_url": "https://docs.google.com/document/d/1flxKGrbnF2g8yh3F-oVD5Xx7ZumId56HbFpIiPdkqLI/edit?usp=sharing",
+        "number": 1
+      },
+      {
+        "title": "Chapter 2: Routing",
+        "filename": "chapter_02_routing",
+        "file_path": "agentic-design-patterns-book/chapter_02_routing.md",
+        "source_url": "https://docs.google.com/document/d/1ux_n8n3T4bYndOjs1DKW5ccpC802KISdy2IWnlvYbas/edit?tab=t.0",
+        "number": 2
+      },
+      {
+        "title": "Chapter 3: Parallelization",
+        "filename": "chapter_03_parallelization",
+        "file_path": "agentic-design-patterns-book/chapter_03_parallelization.md",
+        "source_url": "https://docs.google.com/document/d/1XVMp4RcRkoUJTVbrP2foWZX703CUJpWkrhyFU2cfUOA/edit?tab=t.0",
+        "number": 3
+      },
+      {
+        "title": "Chapter 4: Reflection",
+        "filename": "chapter_04_reflection",
+        "file_path": "agentic-design-patterns-book/chapter_04_reflection.md",
+        "source_url": "https://docs.google.com/document/d/1HXXJOQIMWowtLw4WMiSR360caDAlZPtl5dPPgvq9IT4/edit?tab=t.0#heading=h.a7nkedxjnyap",
+        "number": 4
+      },
+      {
+        "title": "Chapter 5: Tool Use",
+        "filename": "chapter_05_tool_use",
+        "file_path": "agentic-design-patterns-book/chapter_05_tool_use.md",
+        "source_url": "https://docs.google.com/document/d/1bE4iMljhppqGY1p48gQWtZvk6MfRuJRCiba1yRykGNE/edit?usp=sharing",
+        "number": 5
+      },
+      {
+        "title": "Chapter 6: Planning",
+        "filename": "chapter_06_planning",
+        "file_path": "agentic-design-patterns-book/chapter_06_planning.md",
+        "source_url": "https://docs.google.com/document/d/18vvNESEwHnVUREzIipuaDNCnNAREGqEfy9MQYC9wb4o/edit?usp=sharing",
+        "number": 6
+      },
+      {
+        "title": "Chapter 7: Multi-Agent",
+        "filename": "chapter_07_multiagent",
+        "file_path": "agentic-design-patterns-book/chapter_07_multiagent.md",
+        "source_url": "https://docs.google.com/document/d/1RZ5-2fykDQKOBx01pwfKkDe0GCs5ydca7xW9Q4wqS_M/edit?tab=t.0",
+        "number": 7
+      },
+      {
+        "title": "Chapter 8: Memory Management",
+        "filename": "chapter_08_memory_management",
+        "file_path": "agentic-design-patterns-book/chapter_08_memory_management.md",
+        "source_url": "https://docs.google.com/document/d/1asVTObtzIye0I9ypAztaeeI_sr_Hx2TORE02uUuqH_c/edit?tab=t.0",
+        "number": 8
+      },
+      {
+        "title": "Chapter 9: Learning and Adaptation",
+        "filename": "chapter_09_learning_and_adaptation",
+        "file_path": "agentic-design-patterns-book/chapter_09_learning_and_adaptation.md",
+        "source_url": "https://docs.google.com/document/d/1UHTEDCmSM1nwB-iyMoHuYzVcu_B_4KkJ2ITGGUKqo8s/edit?tab=t.0",
+        "number": 9
+      },
+      {
+        "title": "Chapter 10: Model Context Protocol (MCP)",
+        "filename": "chapter_10_model_context_protocol_mcp",
+        "file_path": "agentic-design-patterns-book/chapter_10_model_context_protocol_mcp.md",
+        "source_url": "https://docs.google.com/document/d/1e6XimYczKmhX9zpqEyxLFWPQgGuG0brp7Hic2sFl_qw/edit?usp=sharing",
+        "number": 10
+      },
+      {
+        "title": "Chapter 11: Goal Setting and Monitoring",
+        "filename": "chapter_11_goal_setting_and_monitoring",
+        "file_path": "agentic-design-patterns-book/chapter_11_goal_setting_and_monitoring.md",
+        "source_url": "https://docs.google.com/document/d/10ndlCB39BWjyFRWKpcoKib4vuPD1ojD-x0-ynMaf5uw/edit?tab=t.0",
+        "number": 11
+      },
+      {
+        "title": "Chapter 12: Exception Handling and Recovery",
+        "filename": "chapter_12_exception_handling_and_recovery",
+        "file_path": "agentic-design-patterns-book/chapter_12_exception_handling_and_recovery.md",
+        "source_url": "https://docs.google.com/document/d/1C07AuMur6-infwE0viCp4QtAy_wWI-uceFm6MaYHQGk/edit?tab=t.0#heading=h.m2kk4kdjt6ir",
+        "number": 12
+      },
+      {
+        "title": "Chapter 13: Human-in-the-Loop",
+        "filename": "chapter_13_humanintheloop",
+        "file_path": "agentic-design-patterns-book/chapter_13_humanintheloop.md",
+        "source_url": "https://docs.google.com/document/d/1ImOZcw6yeb7a-uRBMNP1VdovYfyip4IdsAcLu9yue-0/edit?usp=sharing",
+        "number": 13
+      },
+      {
+        "title": "Chapter 14: Knowledge Retrieval (RAG)",
+        "filename": "chapter_14_knowledge_retrieval_rag",
+        "file_path": "agentic-design-patterns-book/chapter_14_knowledge_retrieval_rag.md",
+        "source_url": "https://docs.google.com/document/d/1v96Oobio6xDOqbK8ejsXjmOc4Dp2uoLMo5_gfJgi-NE/edit?usp=sharing",
+        "number": 14
+      },
+      {
+        "title": "Chapter 15: Inter-Agent Communication (A2A",
+        "filename": "chapter_15_interagent_communication_a2a",
+        "file_path": "agentic-design-patterns-book/chapter_15_interagent_communication_a2a.md",
+        "source_url": "https://docs.google.com/document/d/1H6HmUYcy5kugt5gt7Kh2Zzb8C62d5pu36RsgMNDCX24/edit?usp=sharing",
+        "number": 15
+      },
+      {
+        "title": "Chapter 16: Resource-Aware Optimization",
+        "filename": "chapter_16_resourceaware_optimization",
+        "file_path": "agentic-design-patterns-book/chapter_16_resourceaware_optimization.md",
+        "source_url": "https://docs.google.com/document/d/1nAN58l6JjqEJHk43126uh7xgdEblCpcbsNUHXgtBmJQ/edit?usp=sharing",
+        "number": 16
+      },
+      {
+        "title": "Chapter 17: Reasoning Techniques",
+        "filename": "chapter_17_reasoning_techniques",
+        "file_path": "agentic-design-patterns-book/chapter_17_reasoning_techniques.md",
+        "source_url": "https://docs.google.com/document/d/1Yt1W_hLaC6ZNgJXfT4W6NrCL4TzNVdKOX50kgpHiIq4/edit?usp=sharing",
+        "number": 17
+      },
+      {
+        "title": "Chapter 18: Guardrails/Safety Patterns",
+        "filename": "chapter_18_guardrailssafety_patterns",
+        "file_path": "agentic-design-patterns-book/chapter_18_guardrailssafety_patterns.md",
+        "source_url": "https://docs.google.com/document/d/1Gpc5af_okze1kprRLohP6-81e1KwL6HggjeLvxQyIuk/edit?usp=sharing",
+        "number": 18
+      },
+      {
+        "title": "Chapter 19: Evaluation and Monitoring",
+        "filename": "chapter_19_evaluation_and_monitoring",
+        "file_path": "agentic-design-patterns-book/chapter_19_evaluation_and_monitoring.md",
+        "source_url": "https://docs.google.com/document/d/1G3zOZM2ZOd0gUp5dy66FUjKMOcALh9l-JpvPxgGMm8w/edit?usp=sharing",
+        "number": 19
+      },
+      {
+        "title": "Chapter 20: Prioritization",
+        "filename": "chapter_20_prioritization",
+        "file_path": "agentic-design-patterns-book/chapter_20_prioritization.md",
+        "source_url": "https://docs.google.com/document/d/1qyXxGM2hNqW_qjXuBFxrEUeoYVO79BoW1ogKu1bfdCY/edit?usp=sharing",
+        "number": 20
+      },
+      {
+        "title": "Chapter 21: Exploration and Discovery",
+        "filename": "chapter_21_exploration_and_discovery",
+        "file_path": "agentic-design-patterns-book/chapter_21_exploration_and_discovery.md",
+        "source_url": "https://docs.google.com/document/d/1zeeMVTqjqRIli6G9MMWThhoQhvKqLOjJF2EHHUXLhdk/edit?usp=sharing",
+        "number": 21
+      }
+    ],
+    "appendices": [
+      {
+        "title": "Appendix A: Advanced Prompting Techniques",
+        "filename": "appendix_a_advanced_prompting_techniques",
+        "file_path": "agentic-design-patterns-book/appendix_a_advanced_prompting_techniques.md",
+        "source_url": "https://docs.google.com/document/d/1V7EKEWibOH6IhHD_PtbFZiml492-2191jDQCcTkhtTI/edit?usp=sharing"
+      },
+      {
+        "title": "Appendix B \\- AI Agentic \u2026.: From GUI to Real world environment",
+        "filename": "appendix_b_ai_agentic_from_gui_to_real_world_environment",
+        "file_path": "agentic-design-patterns-book/appendix_b_ai_agentic_from_gui_to_real_world_environment.md",
+        "source_url": "https://docs.google.com/document/d/11pma_tCoC7uZ2SFKjcR5KyIq0_ooMGSoadI6f9mxG2I/edit?tab=t.0#heading=h.4bsgiycebw26"
+      },
+      {
+        "title": "Appendix C \\- Quick overview of Agentic Frameworks",
+        "filename": "appendix_c_quick_overview_of_agentic_frameworks",
+        "file_path": "agentic-design-patterns-book/appendix_c_quick_overview_of_agentic_frameworks.md",
+        "source_url": "https://docs.google.com/document/d/151rGsiEYOkXUcNDRus_N8TxxuvjoyTDViBhzt9z0Mfw/edit?tab=t.0#heading=h.8y2llpsk10ds"
+      },
+      {
+        "title": "Appendix D \\- Building an Agent with AgentSpace (on-line only)",
+        "filename": "appendix_d_building_an_agent_with_agentspace_online_only",
+        "file_path": "agentic-design-patterns-book/appendix_d_building_an_agent_with_agentspace_online_only.md",
+        "source_url": "https://docs.google.com/document/d/1bDRJ8mKtLTeWNC-cGD0Cr8pEJQgJHNcjqz5ekloAjaE/edit?tab=t.0"
+      },
+      {
+        "title": "Appendix F \\- Under the Hood: An Inside Look at the Agents\u2019 Reasoning Engines",
+        "filename": "appendix_f_under_the_hood_an_inside_look_at_the_agents_reasoning_engines",
+        "file_path": "agentic-design-patterns-book/appendix_f_under_the_hood_an_inside_look_at_the_agents_reasoning_engines.md",
+        "source_url": "https://docs.google.com/document/d/14q3fQ-FZmDgiughno_WLSILMWkURvUgR7mlGiFtvwd4/edit?tab=t.0"
+      },
+      {
+        "title": "Appendix G \\-  Coding agents",
+        "filename": "appendix_g_coding_agents",
+        "file_path": "agentic-design-patterns-book/appendix_g_coding_agents.md",
+        "source_url": "https://docs.google.com/document/d/1tVyhgwrD4fu_D_pHUrwhNxoguRG3tLc1KObXFxrxE_s/edit?tab=t.0"
+      }
+    ],
+    "backmatter": [
+      {
+        "title": "Conclusion,",
+        "filename": "conclusion",
+        "file_path": "agentic-design-patterns-book/conclusion.md",
+        "source_url": "https://docs.google.com/document/d/1NGzpg9VldtStb_7jRkXJYBaHFwPwJ7WN6ZcTr7dNSVA/edit?usp=sharing"
+      },
+      {
+        "title": "Glossary",
+        "filename": "glossary",
+        "file_path": "agentic-design-patterns-book/glossary.md",
+        "source_url": "https://docs.google.com/document/d/1_j_OdzeUALluBUO1GkZ48DsHbbDETiM_1G4farVLPnE/edit?usp=sharing"
+      },
+      {
+        "title": "Index of Terms",
+        "filename": "index_of_terms",
+        "file_path": "agentic-design-patterns-book/index_of_terms.md",
+        "source_url": "https://docs.google.com/document/d/15MrpoJBrZIi6aEZrBJCeCvVsIoC-EecYG9EWVk3YCKw/edit?tab=t.0"
+      },
+      {
+        "title": "Online Contribution \\- Frequently Asked Questions: Agentic Design Patterns",
+        "filename": "online_contribution",
+        "file_path": "agentic-design-patterns-book/online_contribution.md",
+        "source_url": "https://docs.google.com/document/d/1XxQsHX3FWEP3TisQeWZwFfYw81zDwEHfHdIfjypa_0g/edit?tab=t.0"
+      }
+    ]
+  }
+}

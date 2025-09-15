@@ -1,0 +1,130 @@
+/* EPUB Styles for Agentic Design Patterns Book */
+
+/* Table of Contents Styling */
+a, a:link {
+    color: #0066cc !important;
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+
+a:visited {
+    color: #6633cc !important;
+    text-decoration: underline !important;
+}
+
+a:hover, a:focus {
+    color: #0044aa !important;
+    text-decoration: underline !important;
+    background-color: rgba(0, 102, 204, 0.1) !important;
+}
+
+a:active {
+    color: #cc0000 !important;
+    text-decoration: underline !important;
+}
+
+/* Table of Contents specific styling */
+.toc a, nav a {
+    color: #0066cc !important;
+    text-decoration: underline !important;
+    font-weight: normal;
+    display: inline-block;
+    padding: 2px 4px;
+    margin: 1px 0;
+}
+
+.toc a:hover, nav a:hover {
+    background-color: rgba(0, 102, 204, 0.1) !important;
+    color: #0044aa !important;
+}
+
+/* Chapter and section links */
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: inherit;
+    text-decoration: none;
+}
+
+/* List item links in TOC */
+li a {
+    color: #0066cc !important;
+    text-decoration: underline !important;
+}
+
+/* Strong emphasis on TOC links */
+strong a {
+    color: #0066cc !important;
+    text-decoration: underline !important;
+    font-weight: bold;
+}
+
+/* Ensure links are visible in all themes */
+@media (prefers-color-scheme: dark) {
+    a, a:link {
+        color: #4da6ff !important;
+    }
+    
+    a:visited {
+        color: #9966ff !important;
+    }
+    
+    a:hover, a:focus {
+        color: #66b3ff !important;
+        background-color: rgba(77, 166, 255, 0.2) !important;
+    }
+}
+
+/* Typography improvements */
+body {
+    line-height: 1.6;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+}
+
+/* Table of Contents formatting */
+.toc, nav {
+    margin: 2em 0;
+    padding: 0;
+}
+
+.toc h1, .toc h2, .toc h3 {
+    color: #333;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.toc ul, nav ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.toc li, nav li {
+    margin: 0.5em 0;
+    padding: 0;
+}
+
+/* Chapter numbering */
+.toc ol {
+    padding-left: 1.5em;
+}
+
+.toc ol li {
+    margin: 0.3em 0;
+}
+
+/* Part dividers */
+hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 2em 0;
+}
+
+/* Responsive design */
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+    
+    .toc, nav {
+        margin: 1em 0;
+    }
+}
