@@ -12,9 +12,9 @@ def create_enhanced_book_with_toc():
     """Create enhanced book file with embedded table of contents and cover image"""
     
     base_dir = Path(__file__).parent.parent
-    book_final = base_dir / "book_final.md"
+    book_final = base_dir / "backups" / "book_final.md"
     toc_file = base_dir / "markdown" / "table_of_contents_epub.md"
-    enhanced_book = base_dir / "book_final_with_toc.md"
+    enhanced_book = base_dir / "backups" / "book_final_with_toc.md"
     cover_image = base_dir / "images" / "cover.png"
     
     print("🔨 Creating enhanced book with cover image and table of contents...")
@@ -77,7 +77,7 @@ def convert_to_epub_with_navigation():
     """Convert the enhanced book to EPUB with proper navigation"""
     
     base_dir = Path(__file__).parent.parent
-    enhanced_book = base_dir / "book_final_with_toc.md"
+    enhanced_book = base_dir / "backups" / "book_final_with_toc.md"
     output_epub = base_dir / "epub" / "agentic-design-patterns-complete.epub"
     css_file = base_dir / "styles" / "epub-styles.css"
     cover_image = base_dir / "images" / "cover.png"
