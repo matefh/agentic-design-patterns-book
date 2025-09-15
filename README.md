@@ -5,7 +5,7 @@
 
 ## EPUB
 
-⬇️ 💾 👉 [Download the EPUB file](epub/agentic-design-patterns-complete.epub)
+⬇️ 💾 👉 [Download the EPUB file](agentic-design-patterns.epub)
 
 ## About This Book
 
